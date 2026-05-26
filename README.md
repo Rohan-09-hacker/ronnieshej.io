@@ -1,41 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=700&color=FF2D00&center=true&vCenter=true&width=780&lines=Hey+I'm+Rohan+R+Shejawadakar;Deadpool+Fan+%F0%9F%94%B4;2nd+Year+AI%26ML+Student;Building+Cool+Shit+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=Hi+I'm+Rohan+R+Shejawadakar;2nd+Year+AI+%26+ML+Student;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deadpool's+Biggest+Fan-FF0000?style=for-the-badge&logo=deadpool&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI%26ML)-Presidency_University-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2nd_Year-B.Tech_CSE_(AI%26ML)-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Presidency_University-4F46E5?style=for-the-badge&logo=university&logoColor=white" />
 </p>
 
 ---
 
-### 🦸‍♂️ About Me
+### 👋 About Me
 
 **Passionate 2nd-year Computer Science student** specializing in **Artificial Intelligence & Machine Learning** at Presidency University.
 
-Main code ko **Deadpool** style mein marta hoon — **Maximum Effort**, full swag aur kabhi kabhi fourth wall bhi break kar deta hoon. 
+I love turning ideas into reality through clean code and intelligent systems. Currently working on **genNxt** — an AI-powered personal study companion designed to help students learn smarter and achieve more.
 
-Currently building **genNxt** — ek powerful AI study companion jo students ki life ko next level pe le jayega.
-
-**Code. Create. Regenerate.** ✨
+Always curious, always building.
 
 ---
 
-### 🔥 Current Projects
+### 🔥 Featured Projects
 
 **genNxt** — AI Powered Student Study Companion ✨
-- Smart Notes Generation
-- Daily Task & Growth Planner
-- Progress Monitoring
+- Smart AI Notes Generator
+- Personalized Daily Task Planner
+- Progress Monitoring & Analytics
 - Exam Preparation Assistant
+- Intelligent AI Chatbot
 
 **BloodKart** — Healthcare Blood Donation Platform 🩸
+- Built using Kotlin for Android
+- Focused on connecting donors with recipients efficiently
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -44,24 +45,26 @@ Currently building **genNxt** — ek powerful AI study companion jo students ki 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-FF0000?logo=artificial-intelligence&logoColor=white&style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-FF6B6B?logo=artificial-intelligence&logoColor=white&style=for-the-badge)
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@rohan_shejawadakar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohan_shejawadakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanshejawadakar)
+[![Email](https://img.shields.io/badge/Email-ronnieshejawadakar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnieshejawadakar@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000,8B0000&height=100&section=footer&text=Maximum%20Effort%20%E2%9D%A4%EF%B8%8F&fontSize=16&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1,4F46E5&height=100&section=footer&text=Code%20%E2%9D%A4%EF%B8%8F%20Curiosity&fontSize=16&fontAlignY=35" />
 </div>
