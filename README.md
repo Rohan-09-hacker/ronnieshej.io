@@ -1,48 +1,41 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Rohan+R+Shejawadakar;Maximum+Effort+Developer;Deadpool+Fan+%F0%9F%94%B4;AI+%26+Full-Stack+Enthusiast;Breaking+the+Fourth+Wall+Since+2024" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=700&color=FF2D00&center=true&vCenter=true&width=780&lines=Hey+I'm+Rohan+R+Shejawadakar;Deadpool+Fan+%F0%9F%94%B4;2nd+Year+AI%26ML+Student;Building+Cool+Shit+with+Code" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deadpool's+Biggest+Fan-FF0000?style=for-the-badge&logo=deadpool&logoColor=white" />
-  <img src="https://img.shields.io/badge/2nd_Year-B.Tech_CSE_(AI%26ML)-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Presidency_University-FF1493?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maximum+Effort-FF4500?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI%26ML)-Presidency_University-7C3AED?style=for-the-badge" />
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF0000&height=80&section=header&text=DEADPOOL%20MODE%20ACTIVATED&fontSize=22&fontAlignY=35&animation=fadeIn" />
-</div>
 
 ### 🦸‍♂️ About Me
 
 **Passionate 2nd-year Computer Science student** specializing in **Artificial Intelligence & Machine Learning** at Presidency University.
 
-Main **Deadpool** ki tarah code karta hoon — **Maximum Effort**, full swag, aur kabhi kabhi fourth wall bhi tod deta hoon. 
+Main code ko **Deadpool** style mein marta hoon — **Maximum Effort**, full swag aur kabhi kabhi fourth wall bhi break kar deta hoon. 
 
-Bugs ko regenerate nahi hone deta. Currently building **genNxt** — ek AI jo students ki zindagi badal dega.
+Currently building **genNxt** — ek powerful AI study companion jo students ki life ko next level pe le jayega.
 
-**"Code. Create. Regenerate."** ✨
-
----
-
-### 🔥 Currently Building
-
-**genNxt** — Your Personal AI Study Companion (Deadpool Approved) ✨
-- AI Notes Generator
-- Smart Daily Task Planner  
-- Progress Analytics
-- Exam Crusher Mode
-- Savage AI Chatbot
-
-**BloodKart** — Saving Lives One Code at a Time 🩸
+**Code. Create. Regenerate.** ✨
 
 ---
 
-### 🛠️ Tech Arsenal (My Weapons)
+### 🔥 Current Projects
+
+**genNxt** — AI Powered Student Study Companion ✨
+- Smart Notes Generation
+- Daily Task & Growth Planner
+- Progress Monitoring
+- Exam Preparation Assistant
+
+**BloodKart** — Healthcare Blood Donation Platform 🩸
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -51,15 +44,13 @@ Bugs ko regenerate nahi hone deta. Currently building **genNxt** — ek AI jo st
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-FF0000?logo=artificial-intelligence&logoColor=white&style=for-the-badge)
 
 </div>
 
 ---
 
-### 📬 Let's Connect (Before I Regenerate)
+### 📬 Connect With Me
 
 <div align="center">
 
@@ -72,5 +63,5 @@ Bugs ko regenerate nahi hone deta. Currently building **genNxt** — ek AI jo st
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000,8B0000,FF4500&height=120&section=footer&text=MAXIMUM%20EFFORT%20%E2%9D%A4%EF%B8%8F%20%26%20CHIMICHANGAS&fontSize=20&animation=wave&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000,8B0000&height=100&section=footer&text=Maximum%20Effort%20%E2%9D%A4%EF%B8%8F&fontSize=16&fontAlignY=35" />
 </div>
