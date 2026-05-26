@@ -1,25 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Rohan+R+Shejawadakar;AI+%26+Full-Stack+Developer;Building+Tomorrow's+Tech+Today+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=600&color=00FFAA&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Rohan+R+Shejawadakar;AI+%26+Full-Stack+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/2nd_Year-B.Tech_CSE_(AI%26ML)-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Presidency_University-FF6B6B?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/Presidency_University-FF1493?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always_Learning-00FFAA?style=for-the-badge&logo=rocket&logoColor=black" />
 </p>
 
 ---
 
 ### 👑 About Me
 
-**Passionate 2nd-year CSE (AI & ML) student** who breathes code and lives for impactful projects. 
+**Passionate 2nd-year Computer Science student** specializing in **Artificial Intelligence & Machine Learning** at Presidency University. 
 
-I don't just write code — I **craft experiences**. Currently building **genNxt**, an AI-powered personal study companion that’s going to change how students learn forever.
+I love turning ideas into reality through clean code and creative solutions. Currently building **genNxt** — an intelligent AI study companion that’s going to make student life 10x easier.
 
-When I'm not coding, I'm exploring cutting-edge AI, designing sleek interfaces, or finding new ways to solve real problems.
-
-**"Code. Create. Conquer."**
+**Code. Create. Conquer.** ✨
 
 ---
 
@@ -27,12 +26,12 @@ When I'm not coding, I'm exploring cutting-edge AI, designing sleek interfaces, 
 
 **genNxt** — Your Personal AI Study Companion ✨
 - AI Notes Generator
-- Smart Daily Planner
-- Progress Analytics
-- Exam Crusher Mode
-- Intelligent Chatbot
+- Smart Daily Task Planner  
+- Progress Analytics Dashboard
+- Exam Preparation Assistant
+- Intelligent AI Chatbot
 
-**BloodKart** — Connecting Lives through Technology 🩸
+**BloodKart** — Connecting Blood Donors & Recipients 🩸
 
 ---
 
@@ -54,15 +53,6 @@ When I'm not coding, I'm exploring cutting-edge AI, designing sleek interfaces, 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 📬 Let's Connect & Build Something Epic!
 
 <div align="center">
@@ -73,8 +63,8 @@ When I'm not coding, I'm exploring cutting-edge AI, designing sleek interfaces, 
 
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20Lots%20of%20%E2%98%95%EF%B8%8F&fontSize=18&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20Lots%20of%20%E2%98%95%EF%B8%8F&fontSize=18&fontAlignY=35" />
 </div>
